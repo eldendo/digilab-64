@@ -5,7 +5,7 @@ a minimal logic simulator for the commodore 64
 ---
 # manual
 
-This program simulates a logic circuit. Only two input NAND gates are available. When the outputs of two different NANDs are connected to the same node, they behave as an wired OR. (untested)  
+This program simulates a logic circuit. Only two-input NAND gates are available. When the outputs of two different NANDs are connected to the same node, they behave as an wired OR. (untested)  
 The program uses c64 BASIC boolean values: -1 for TRUE and 0 for FALSE.
 
 # instructions
