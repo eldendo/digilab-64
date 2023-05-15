@@ -18,7 +18,7 @@ Draw your circuit on a piece of paper. Suppose there are n nodes and g gates.
 - number the nodes from 0 to n-1 (including input and output pins)  
 - start numbering with the input pins  
 - end numbering with the output pins  
-- every gate has 2 input leads (a and b) and one output pin (c)  
+- every gate has 2 input leads (a and b) and one output lead (c)  
 
 Now you can fill in the data section (starting at line 1000) of the program:  
 This example simulates an XOR from 4 NANDS  
