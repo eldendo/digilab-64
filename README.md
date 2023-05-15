@@ -12,6 +12,8 @@ The program uses c64 BASIC boolean values: -1 for TRUE and 0 for FALSE.
 
 Draw your circuit on a piece of paper. Suppose there are n nodes and g gates.  
 
+![XOR](XOR.jpg)
+
 - number the gates from 0 to g-1  
 - number the nodes from 0 to n-1 (including input and output pins)  
 - start numbering with the input pins  
