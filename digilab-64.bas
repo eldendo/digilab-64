@@ -19,7 +19,7 @@
 320 dim n(1,n-1)
 330 dim a(g-1),b(g-1),c(g-1)
 340 for i=0 to g-1
-350    print "gate";i
+350    print "  gate";i;":";
 360    read a(i),b(i),c(i):print a(i);b(i);c(i)
 370 next i
 380 read ip,op:print ip;"input pin(s),";op;"output pin(s)"
