@@ -1,6 +1,8 @@
 # digilab-64
 a minimal logic simulator for the commodore 64
 ---
+![screenshot](digilab-64.png)
+---
 # manual
 
 This program simulates a logic circuit. Only two input NAND gates are available. When the outputs of two different NANDs are connected to the same node, they behave as an wired OR. (untested)  
